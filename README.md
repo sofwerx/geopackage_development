@@ -11,3 +11,6 @@ Contact Tracey ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email](mailt
 - Create tool/s to facilitate legacy data conversion to GPKG / RTE with M:N join table
 - Distributed dev/test environment for geospatial work
 - Backpack Map Server
+
+## References ##
+- [Trello board](https://trello.com/b/PpUbxYxf/reference)
