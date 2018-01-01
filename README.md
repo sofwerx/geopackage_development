@@ -18,4 +18,4 @@ View / update items there or in [this repo's issues](https://github.com/sofwerx/
 - GeoPackage Developer intro / guide
 
 ## References ##
-- [GeoPackage Technical References] (collected on Trello board)(https://trello.com/b/PpUbxYxf/reference)
+- [GeoPackage Technical References](https://trello.com/b/PpUbxYxf/reference)
