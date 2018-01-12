@@ -27,6 +27,7 @@ _Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email
 
 ## References ##
 - [GeoPackage Technical References](https://trello.com/b/PpUbxYxf/reference)
+- [U.S. Naval Research Laboratory - Geospatial Computing Section](https://geoint.nrlssc.navy.mil)
 
 ### On GitHub ###
 - [Open Geospatial Consortium (OGC)](https://github.com/opengeospatial)
