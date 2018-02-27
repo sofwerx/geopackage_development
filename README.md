@@ -1,3 +1,5 @@
+# [Augmented Reality Navigation Assistance PRIZE CHALLENGE -- Deadline 15 April 2018](https://www.teamwerx.org/geo-hack-n-hunt-prize-challenges/?tab=overview) #
+
 # Ongoing SWX GeoPackage Efforts #
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/sofwerx/geopackage_development.svg?columns=all)](https://waffle.io/sofwerx/geopackage_development)
 
@@ -15,12 +17,10 @@ _Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email
 - OGC GeoPackage Related Tables Extension - Interoperability Experiment  
 	  _[OGC Observer Agreement](https://portal.opengeospatial.org/files/?artifact_id=75290) required for access_
   - [RTE-IE page on OGC website](http://www.opengeospatial.org/projects/initiatives/gpkg-rteie)
-  - Experiment participants & observers:
-    	- [Experiment Progress & dcumentaton](https://github.com/tabinfl/related-tables-IE)
-    	- [Engineering Report to OGC](https://github.com/sofwerx/gpkg-rte-ie-er)
+
 
 ## Ideas / Wishlist ##
-- Create tool/s to facilitate legacy data conversion to GPKG / RTE with M:N join table
+- Create tool/s to facilitate legacy data conversion to GPKG
 - GeoPackage Developer intro / guide
 - Distributed dev/test environment for geospatial work
 - Backpack Map Server
@@ -31,9 +31,10 @@ _Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email
 
 ### On GitHub ###
 - [Open Geospatial Consortium (OGC)](https://github.com/opengeospatial)
+- [GeoPackage information](https://www.geopackage.org)
 - [National Geospatial-Intelligence Angecy (NGA)](https://github.com/ngageoint)
 - [Open Source Geospatial Foundation](https://github.com/OSGeo)
-- [GeoPackage extension to QGIS](https://github.com/pka/qgpkg)
+
 
 ### Project Tracking ###
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/sofwerx/geopackage_development.svg?columns=all)](https://waffle.io/sofwerx/geopackage_development)
