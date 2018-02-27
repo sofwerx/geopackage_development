@@ -1,0 +1,1 @@
+Sample GeoPackage file with a route and associated CNPs (Critical Navigation Points): [hacknhunt-simple.gpkg](https://raw.githubusercontent.com/sofwerx/geopackage_development/master/hack-n-hunt/hacknhunt-simple.gpkg)
