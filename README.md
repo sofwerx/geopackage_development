@@ -1,4 +1,5 @@
-# [Augmented Reality Navigation Assistance PRIZE CHALLENGE -- Deadline 15 April 2018](https://www.teamwerx.org/geo-hack-n-hunt-prize-challenges/?tab=overview) #
+# [Augmented Reality Navigation Assistance PRIZE CHALLENGE](https://www.teamwerx.org/geo-hack-n-hunt-prize-challenges/?tab=overview) #
+## Deadline 15 April 2018 ##
 
 # Ongoing SWX GeoPackage Efforts #
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/sofwerx/geopackage_development.svg?columns=all)](https://waffle.io/sofwerx/geopackage_development)
