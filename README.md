@@ -1,17 +1,12 @@
 ## [Mobile Sensor Data Collection PRIZE CHALLENGE](https://www.teamwerx.org/mobile/?tab=overview) (closes 30 June 2018) ##
 
-## Hack-n-Hunt Event data: ##
-
-[GeoPackage MapCache Android APK](https://github.com/ngageoint/geopackage-mapcache-android/releases/download/1.19/mapcache-1.19.apk)
-
-[Ybor City map](https://github.com/sofwerx/geopackage_development/raw/master/hack-n-hunt/hacknhunt_ybor.gpkg)
-
 # Ongoing SWX GeoPackage Efforts #
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/sofwerx/geopackage_development.svg?columns=all)](https://waffle.io/sofwerx/geopackage_development)
 
 ## Projects & Resources ##
 - [SOFWERX Geo-related GitHub repositories](https://github.com/orgs/sofwerx/teams/geo/repositories)
 
+- [Experimental use of Related Tables Extension](https://github.com/sofwerx/geopackage_development/tree/master/safehouse)
 
 _Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email](mailto:tracey.birch@sofwerx.org)) for access to the resources below_
 
@@ -24,6 +19,11 @@ _Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email
 	  _[OGC Observer Agreement](https://portal.opengeospatial.org/files/?artifact_id=75290) required for access_
   - [RTE-IE page on OGC website](http://www.opengeospatial.org/projects/initiatives/gpkg-rteie)
 
+## Hack-n-Hunt Event data: ##
+
+[GeoPackage MapCache Android APK](https://github.com/ngageoint/geopackage-mapcache-android/releases/download/1.19/mapcache-1.19.apk)
+
+[Ybor City map](https://github.com/sofwerx/geopackage_development/raw/master/hack-n-hunt/hacknhunt_ybor.gpkg)
 
 ## Ideas / Wishlist ##
 - Create tool/s to facilitate legacy data conversion to GPKG
