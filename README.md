@@ -8,23 +8,29 @@
 
 - ### [Related Tables Extension media viewer](http://django-geopackage-server.geotools1.devwerx.org/) ###
 - ### [Experimental use of Related Tables Extension*](https://github.com/sofwerx/geopackage_development/tree/master/safehouse) ###
+- OGC GeoPackage Related Tables Extension - Interoperability Experiment  
+	  _[OGC Observer Agreement](https://portal.opengeospatial.org/files/?artifact_id=75290) required for access_
+  - [RTE-IE page on OGC website](http://www.opengeospatial.org/projects/initiatives/gpkg-rteie)
 
-_Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email](mailto:tracey.birch@sofwerx.org)) for access to the resources below_
+_Contact Tracey Birch ([slack](https://sofwerx.slack.com/team/U5N2X4Q69), [email](mailto:tracey.birch@sofwerx.org)) for access to these resources:_
 
 - Geospatial software experimentation & demo server available to SWX collaborators:
 	- [Browser-based remote desktop](http://guacamole.geotools1.devwerx.org)
 	- [Remote desktop application (RDP)](rdp://guacamole.geotools1.devwerx.org)
 	- [Secure shell (ssh) access](ssh://geotools1.devwerx.org)
 
-- OGC GeoPackage Related Tables Extension - Interoperability Experiment  
-	  _[OGC Observer Agreement](https://portal.opengeospatial.org/files/?artifact_id=75290) required for access_
-  - [RTE-IE page on OGC website](http://www.opengeospatial.org/projects/initiatives/gpkg-rteie)
+## Hack-n-Hunt Event: ##
 
-## Hack-n-Hunt Event data: ##
+[Event Summary, Presentations, Ideation Session Notes](https://www.sofwerx.org/geo/)
 
-[GeoPackage MapCache Android APK](https://github.com/ngageoint/geopackage-mapcache-android/releases/download/1.19/mapcache-1.19.apk)
+### Prize Challenge Results ###
+https://github.com/sofwerx/gpkg-arna
+https://github.com/sofwerx/hack-n-hunt
+https://github.com/sofwerx/AR_Navigation
 
+### Sample GeoPackage files ###
 [Ybor City map](https://github.com/sofwerx/geopackage_development/raw/master/hack-n-hunt/hacknhunt_ybor.gpkg)
+[Sample navigation route with photos in RTE](https://github.com/sofwerx/geopackage_development/raw/master/hack-n-hunt/hacknhunt-with-RTE.gpkg)
 
 ## Ideas / Wishlist ##
 - Create tool/s to facilitate legacy data conversion to GPKG
